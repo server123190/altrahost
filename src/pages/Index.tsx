@@ -50,11 +50,18 @@ const Index = () => {
             <div className="w-8 h-8 bg-gradient-primary rounded-lg"></div>
             <span className="text-2xl font-bold text-foreground">Altrahost</span>
           </div>
-          <Button variant="outline" asChild>
-            <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
-              Contact Us
-            </a>
-          </Button>
+          <div className="flex items-center gap-3">
+            <Button variant="outline" asChild>
+              <a href="#" className="text-foreground hover:text-primary">
+                Panel
+              </a>
+            </Button>
+            <Button variant="outline" asChild>
+              <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+                Contact Us
+              </a>
+            </Button>
+          </div>
         </div>
       </nav>
 
