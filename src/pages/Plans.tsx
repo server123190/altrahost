@@ -132,8 +132,10 @@ const Plans = () => {
               </div>
             ))}
           </div>
-          <Button className="w-full" variant="hero">
-            Choose Plan
+          <Button className="w-full" variant="hero" asChild>
+            <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+              Buy via Discord
+            </a>
           </Button>
         </div>
       </CardContent>
@@ -160,7 +162,7 @@ const Plans = () => {
             Choose Your Perfect Plan
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Powerful hosting solutions designed for your needs
+            Powerful hosting solutions designed for your needs. All purchases are made through our Discord server.
           </p>
         </div>
 
@@ -258,8 +260,10 @@ const Plans = () => {
                   ))}
                 </div>
                 <div className="text-center">
-                  <Button variant="hero" size="lg">
-                    Search Domains
+                  <Button variant="hero" size="lg" asChild>
+                    <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+                      Buy Domains via Discord
+                    </a>
                   </Button>
                 </div>
               </CardContent>
@@ -292,15 +296,15 @@ const Plans = () => {
         <div className="text-center mt-16">
           <Card className="bg-gradient-card border-border max-w-md mx-auto">
             <CardHeader>
-              <CardTitle>Need Help?</CardTitle>
+              <CardTitle>Ready to Purchase?</CardTitle>
               <CardDescription>
-                Our team is ready to assist you with any questions
+                All orders and purchases are handled through our Discord server
               </CardDescription>
             </CardHeader>
             <CardContent>
               <Button variant="premium" asChild>
                 <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
-                  Join Our Discord
+                  Purchase via Discord
                 </a>
               </Button>
             </CardContent>
