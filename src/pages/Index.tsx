@@ -52,7 +52,7 @@ const Index = () => {
           </div>
           <div className="flex items-center gap-3">
             <Button variant="outline" asChild>
-              <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
+              <a href="https://discord.gg/7vqgvQQdks" target="_blank" rel="noopener noreferrer">
                 Contact Us
               </a>
             </Button>
@@ -99,7 +99,7 @@ const Index = () => {
                 asChild
                 className="text-lg px-8 py-6"
               >
-                <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
+                <a href="https://discord.gg/7vqgvQQdks" target="_blank" rel="noopener noreferrer">
                   Learn More
                 </a>
               </Button>
@@ -173,7 +173,7 @@ const Index = () => {
             <p className="text-muted-foreground">
               Need custom solutions?{" "}
               <a 
-                href="https://discord.gg/v2rQf5Beg9" 
+                href="https://discord.gg/7vqgvQQdks" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
