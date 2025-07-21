@@ -51,9 +51,6 @@ const Index = () => {
             <span className="text-2xl font-bold text-foreground">Altrahost</span>
           </div>
           <div className="flex items-center gap-3">
-            <Button variant="outline" onClick={() => navigate("/panel")}>
-              Panel
-            </Button>
             <Button variant="outline" asChild>
               <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
                 Contact Us
