@@ -133,7 +133,7 @@ const Plans = () => {
             ))}
           </div>
           <Button className="w-full" variant="hero" asChild>
-            <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
               Buy via Discord
             </a>
           </Button>
@@ -261,7 +261,7 @@ const Plans = () => {
                 </div>
                 <div className="text-center">
                   <Button variant="hero" size="lg" asChild>
-                    <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+                    <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
                       Buy Domains via Discord
                     </a>
                   </Button>
@@ -283,7 +283,7 @@ const Plans = () => {
               </CardHeader>
               <CardContent>
                 <Button variant="hero" asChild>
-                  <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+                  <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
                     Contact Us on Discord
                   </a>
                 </Button>
@@ -303,7 +303,7 @@ const Plans = () => {
             </CardHeader>
             <CardContent>
               <Button variant="premium" asChild>
-                <a href="https://discord.gg/altracloud" target="_blank" rel="noopener noreferrer">
+                <a href="https://discord.gg/v2rQf5Beg9" target="_blank" rel="noopener noreferrer">
                   Purchase via Discord
                 </a>
               </Button>
