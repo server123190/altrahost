@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -48,7 +49,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-primary rounded-lg"></div>
-            <span className="text-2xl font-bold text-foreground">Altrahost</span>
+            <span className="text-2xl font-bold text-foreground">AltraCloud</span>
           </div>
           <div className="flex items-center gap-3">
             <Button variant="outline" asChild>
@@ -70,7 +71,7 @@ const Index = () => {
               </Badge>
               <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
                 <span className="bg-gradient-primary bg-clip-text text-transparent">
-                  Altrahost
+                  AltraCloud
                 </span>
                 <br />
                 <span className="text-foreground">
@@ -121,7 +122,7 @@ const Index = () => {
       <section className="container mx-auto px-4 py-20">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4 text-foreground">
-            Why Choose Altrahost?
+            Why Choose AltraCloud?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We provide industry-leading hosting solutions with enterprise-grade infrastructure
@@ -157,7 +158,7 @@ const Index = () => {
               Ready to Get Started?
             </CardTitle>
             <CardDescription className="text-lg max-w-2xl mx-auto">
-              Join thousands of satisfied customers who trust Altrahost for their hosting needs
+              Join thousands of satisfied customers who trust AltraCloud for their hosting needs
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-6">
@@ -190,13 +191,13 @@ const Index = () => {
         <div className="text-center space-y-4">
           <div className="flex items-center justify-center space-x-2">
             <div className="w-6 h-6 bg-gradient-primary rounded"></div>
-            <span className="text-lg font-semibold text-foreground">Altrahost</span>
+            <span className="text-lg font-semibold text-foreground">AltraCloud</span>
           </div>
           <p className="text-muted-foreground">
             Premium hosting solutions for the modern web
           </p>
           <div className="text-sm text-muted-foreground">
-            © 2024 Altrahost. All rights reserved.
+            © 2024 AltraCloud. All rights reserved.
           </div>
         </div>
       </footer>

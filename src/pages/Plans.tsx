@@ -34,7 +34,7 @@ const Plans = () => {
         features: ["Everything in SMP", "Priority Support", "Custom Plugins", "Advanced Monitoring"]
       },
       {
-        name: "AltraHost Plan",
+        name: "AltraCloud Plan",
         cpu: "3000% Ryzen 9",
         disk: "64GB",
         ram: "64GB",
